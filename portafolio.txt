@@ -1,8 +1,8 @@
-las tecnologias que manejo son:
-
+las tecnologias que manejo son: prueba 
 hmtl
 css
 bootstrap
 git
 
 forms
+github
