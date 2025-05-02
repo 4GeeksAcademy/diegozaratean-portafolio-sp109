@@ -3,7 +3,4 @@ las tecnologias que manejo son:
 hmtl
 css
 bootstrap
-
-react
-python
 git
