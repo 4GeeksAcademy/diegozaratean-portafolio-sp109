@@ -1,0 +1,4 @@
+las tecnologias que manejo son:
+
+hmtl
+css
